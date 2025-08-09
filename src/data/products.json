@@ -1,0 +1,118 @@
+{
+  "categories": [
+    {
+      "name": "Cattle Feed",
+      "slug": "cattle-feed",
+      "products": [
+        {
+          "id": "feed-grade-cattle-feed",
+          "name": "Feed Grade Cattle Feed",
+          "image": "https://5.imimg.com/data5/GD/TJ/MY-17912631/soya-de-oiled-cake-250x250.jpg",
+          "category": "Cattle Feed"
+        },
+        {
+          "id": "10-moisture-cattle-feed",
+          "name": "10% Moisture Cattle Feed",
+          "image": "https://5.imimg.com/data5/RA/QX/MY-17912631/soya-doc-poultry-feed-250x250.jpg",
+          "category": "Cattle Feed"
+        },
+        {
+          "id": "gk-cattle-feed",
+          "name": "GK Cattle Feed",
+          "image": "https://5.imimg.com/data5/FT/PU/MY-17912631/poultry-supplement-250x250.jpg",
+          "category": "Cattle Feed"
+        },
+        {
+          "id": "fresh-soya-cattle-feed",
+          "name": "Fresh Soya Cattle Feed",
+          "image": "https://5.imimg.com/data5/QM/TG/MY-17912631/soya-de-oiled-cake-250x250.jpg",
+          "category": "Cattle Feed"
+        },
+        {
+          "id": "wheat-bran-cattle-feed",
+          "name": "Wheat Bran Cattle Feed",
+          "image": "https://5.imimg.com/data5/SELLER/Default/2024/10/462434152/SA/WE/YF/17912631/wheat-bran-cattle-feed-250x250.jpg",
+          "category": "Cattle Feed"
+        }
+      ]
+    },
+    {
+      "name": "Animal Feed",
+      "slug": "animal-feed",
+      "products": [
+        {
+          "id": "wheat-and-maize-animal-feed",
+          "name": "Wheat And Maize Animal Feed",
+          "image": "https://5.imimg.com/data5/FN/LL/MY-17912631/maize-for-poultry-250x250.jpg",
+          "category": "Animal Feed"
+        },
+        {
+          "id": "high-protein-animal-feed",
+          "name": "High Protein Animal Feed",
+          "image": "https://5.imimg.com/data5/YT/RM/MY-17912631/maize-for-poultry-feed-250x250.jpeg",
+          "category": "Animal Feed"
+        },
+        {
+          "id": "50-kg-animal-feed",
+          "name": "50 kg Animal Feed",
+          "image": "https://5.imimg.com/data5/RH/QY/MY-17912631/rice-bran-poultry-feed-250x250.jpg",
+          "category": "Animal Feed"
+        },
+        {
+          "id": "broiler-finisher-animal-feed",
+          "name": "Broiler Finisher Animal Feed",
+          "image": "https://5.imimg.com/data5/VL/VT/MY-17912631/poultry-feed-250x250.jpg",
+          "category": "Animal Feed"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Feed",
+      "slug": "chicken-feed",
+      "products": [
+        {
+          "id": "seeds-poultry-animal-feed",
+          "name": "Seeds Poultry Animal Feed",
+          "image": "https://5.imimg.com/data5/DA/KH/MY-17912631/poultry-feed-250x250.jpg",
+          "category": "Chicken Feed"
+        },
+        {
+          "id": "layer-chicken-feed",
+          "name": "Layer Chicken Feed",
+          "image": "https://5.imimg.com/data5/EP/KX/MY-17912631/chicken-poultry-feed-250x250.jpg",
+          "category": "Chicken Feed"
+        },
+        {
+          "id": "broiler-chicken-feed",
+          "name": "Broiler Chicken Feed",
+          "image": "https://5.imimg.com/data5/FP/JC/MY-17912631/chicken-feed-250x250.jpg",
+          "category": "Chicken Feed"
+        },
+        {
+          "id": "poultry-chicken-feed",
+          "name": "Poultry Chicken Feed",
+          "image": "https://5.imimg.com/data5/LO/FR/MY-17912631/chicken-poultry-feed-250x250.jpg",
+          "category": "Chicken Feed"
+        },
+        {
+          "id": "mix-grain-poultry-feed-supplement",
+          "name": "Mix Grain Poultry Feed Supplement",
+          "image": "https://5.imimg.com/data5/IN/TB/MY-17912631/poultry-feeds-poultry-supplements-250x250.jpg",
+          "category": "Chicken Feed"
+        },
+        {
+          "id": "broiler-poultry-feed-supplement",
+          "name": "Broiler Poultry Feed Supplement",
+          "image": "https://5.imimg.com/data5/OF/HA/MY-17912631/poultry-supplements-250x250.jpg",
+          "category": "Chicken Feed"
+        },
+        {
+          "id": "poultry-feed-plant",
+          "name": "POULTRY FEED PLANT",
+          "image": "https://5.imimg.com/data5/SE/VE/XJ/SELLER-17912631/poultry-feed-plant-250x250.jpg",
+          "category": "Chicken Feed"
+        }
+      ]
+    }
+  ]
+}
